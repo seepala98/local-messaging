@@ -2,6 +2,7 @@
 helps to connect people in the same network and to communicate through messaging service
 
 note : all devices should be in the same network
+
 working :
 
 1.run to_host_server.py in python2.7 environment
