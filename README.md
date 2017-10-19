@@ -6,8 +6,11 @@ note : all devices should be in the same network
 working :
 
 1.run to_host_server.py in python2.7 environment
+
 2.run chat_bot.py in python3.* environment
+
 3.type in http://localhost:5000 in your web browser
+
 4.type in http://serveripaddress:5000 in other devices which are connected to the network
 
 windows :
