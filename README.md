@@ -1,5 +1,5 @@
-# local-messaging
-helps to connect people in the same network and to communicate through messaging service
+# Local-Messaging
+This helps to connect people in the same network and to communicate through messaging service
 
 note : all devices should be in the same network
 
